@@ -128,7 +128,7 @@ def print_metrics(metrics, labels, sizes, years, directory=None):
     plt.ylim([0, 0.34])
     plt.title('Metrics over Observed Samples', fontsize=18)
     plt.axhline(metrics['Accuracy'].mean(), color=palette[0], linestyle='dotted', 
-                        label=f'Overall accuracy: {metrics["Accuracy"].mean():.2f}')
+                            label=f'Overall accuracy: {metrics["Accuracy"].mean():.2f}')
     plt.axhline(metrics['Balanced accuracy'].mean(), color=palette[1], linestyle='dotted', 
                         label=f'Overall balanced accuracy: {metrics["Balanced accuracy"].mean():.2f}')
     plt.xticks(sizes, labels=years, fontsize=14, rotation=45)
