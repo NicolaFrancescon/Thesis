@@ -11,6 +11,7 @@ Ensure that all required dependencies are installed. Run the following command i
 
 ```bash
 pip install -r requirements.txt
+exit
 
 ### Step 2: Explore the Dataset
 Dataset's content can be explored using the `Exploration.ipynb` notebook. This notebook provides an overview of the dataset structure and key insights.
