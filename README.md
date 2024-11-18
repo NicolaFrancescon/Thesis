@@ -9,10 +9,9 @@ This repository contains the tools and resources used for conducting simulations
 ### Step 1: Install Dependencies
 Ensure that all required dependencies are installed. Run the following command in your terminal:
 
-.. code-block:: bash
-
+'''bash
 pip install -r requirements.txt
-
+'''
 
 ### Step 2: Explore the Dataset
 Dataset's content can be explored using the `Exploration.ipynb` notebook. This notebook provides an overview of the dataset structure and key insights.
