@@ -19,16 +19,16 @@ pip install -r requirements.txt
 Dataset's content can be explored using the `Exploration.ipynb` notebook. This notebook provides an overview of the dataset structure and key insights.
 
 ### Step 3: Simulate a Pipeline
-To execute the desired pipeline, use the 'Complete simulation.ipynb' notebook. This notebook includes all necessary functions, which are specified in its preamble, to facilitate pipeline execution and saves extracted features in the 'features' folder, relevant images in 'figures' folder and relevant data in 'saved_data' folder.
+To execute the desired pipeline, use the `Complete simulation.ipynb` notebook. This notebook includes all necessary functions, which are specified in its preamble, to facilitate pipeline execution and saves extracted features in the `features` folder, relevant images in `figures` folder and relevant data in `saved_data` folder.
 
 ### Step 4: Visualize Simulation Results
-For visual representation of the pipeline's results, refer to the 'Plot results.ipynb' notebook.
+For visual representation of the pipeline's results, refer to the `Plot results.ipynb` notebook.
 
 ### Step 5: Compare Simulations
-Compare the performance of different pipelines in terms of execution time and classification accuracy using the 'Comparing results.ipynb' notebook. The required comparison functions are included in the notebook's preamble.
+Compare the performance of different pipelines in terms of execution time and classification accuracy using the `Comparing results.ipynb` notebook. The required comparison functions are included in the notebook's preamble.
 
 ### Step 6: Retrieve Execution Times
-Numerical execution times for various pipelines can be extracted using the Restore times.py script.
+Numerical execution times for various pipelines can be extracted using the `Restore times.py` script.
 
 ## Additional Notes
 
