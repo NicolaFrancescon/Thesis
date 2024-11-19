@@ -1,8 +1,7 @@
 Creating fmow.hdf5
 ******************
 
-The FMoW dataset is significantly larger than the other datasets. For that reason, we do not host it
-but provide tooling so you can create it yourself.
+The FMoW dataset is significantly large. For that reason, it is not provided in the Repository but tooling is introduced to create it locally.
 
 Step 1: Dependencies
 ====================
